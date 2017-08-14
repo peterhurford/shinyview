@@ -1,0 +1,15 @@
+Package: shinyview
+Title: Views an R dataframe within shiny
+Version: 0.0.0.9000
+Authors@R: person("Peter", "Hurford", email = "peter@peterhurford.com", role = c("aut", "cre"))
+Description: Opens up a shiny application showing your dataframe in a nice data table.
+Depends: R (>= 3.4.1)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+  testthatsomemore,
+  shiny
+Remotes:
+  robertzk/testthatsomemore
+RoxygenNote: 6.0.1
