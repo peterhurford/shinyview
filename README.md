@@ -15,4 +15,4 @@ shiny_view(iris)
 
 ## Acknowledgements
 
-This original library was written by [Robert Krzyzanowski](github.com/robertzk).
+This original library was written by [Robert Krzyzanowski](https://www.github.com/robertzk).
